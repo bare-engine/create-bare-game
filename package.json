@@ -1,0 +1,28 @@
+{
+    "name": "create-bare-game",
+    "version": "0.1.0",
+    "description": "Create a new Bare Engine game project",
+    "type": "module",
+    "bin": {
+        "create-bare-game": "index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "engines": {
+        "node": ">=18"
+    },
+    "keywords": [
+        "bare-engine",
+        "game",
+        "create",
+        "template",
+        "cli"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bare-engine/create-bare-game.git"
+    },
+    "author": "Jeroen Wimmers",
+    "license": "MIT"
+}
